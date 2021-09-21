@@ -1,7 +1,8 @@
 ### Olá! 👋
 
-Desde pequena sempre passei muito tempo no computador e junto ao meu desejo de criar, aos 17 anos ingressei no curso de Arquitetura e Urbanismo na UFBA.
-Aprendi e cresci tanto nesse contexto que tive confiança para dessa vez focar no aprendizado profundo do mundo da programação. Hoje estudo Swift e pretendo muito em breve me tornar uma Desenvolvedora Mobile.
+Apaixonada por tecnologia e computação desde criança, me formei em Arquitetura e Urbanismo, fui professora de inglês e tecnologia, gestora de processos eletrônicos em um orgão público e mais recentemente Tech Recruiter. Agora estou 100% focada nos meus estudos para me tornar uma Desenvolvedora Mobile iOS.
+
+🔭 Estou estudando o 100 Days of Swift - Hacking with Swfit e o curso iOS & Swift - The Complete iOS App Development Bootcamp da Angela Wu na Udemy.
 
 Para incentivar outras mulheres a fazer o mesmo, criei o Eu Em Tech (euemtech.com) que busca disseminar informações sobre esse universo para quem está fora dele.
 
