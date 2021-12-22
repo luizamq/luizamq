@@ -1,10 +1,8 @@
 ### Olá! 👋
 
-Apaixonada por tecnologia e computação desde criança, me formei em Arquitetura e Urbanismo, fui professora de inglês e tecnologia, gestora de processos eletrônicos em um orgão público e mais recentemente Tech Recruiter. Agora estou 100% focada nos meus estudos para me tornar uma Desenvolvedora Mobile iOS.
+Apaixonada por tecnologia e computação desde criança, me formei em Arquitetura e Urbanismo, fui professora de inglês e tecnologia, gestora de processos eletrônicos em um orgão público e mais recentemente Tech Recruiter. 
 
-🔭 Estou estudando o 100 Days of Swift - Hacking with Swfit e o curso iOS & Swift - The Complete iOS App Development Bootcamp da Angela Wu na Udemy.
-
-Para incentivar outras mulheres a fazer o mesmo, criei o Eu Em Tech (euemtech.com) que busca disseminar informações sobre esse universo para quem está fora dele.
+Agora sou uma Desenvolvedora Mobile iOS Junior na Cora!
 
 
 ## Mais sobre mim
