@@ -1,11 +1,4 @@
-### Olá! 👋
-
-Apaixonada por tecnologia e computação desde criança, me formei em Arquitetura e Urbanismo, fui professora de inglês e tecnologia, gestora de processos eletrônicos em um orgão público e mais recentemente Tech Recruiter. 
-
-Agora sou uma Desenvolvedora Mobile iOS Junior na Cora!
-
-
-## Mais sobre mim
+## Sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
